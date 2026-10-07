@@ -1,0 +1,26 @@
+1 24 "app.manifest"
+101 ICON "app.ico"
+1 VERSIONINFO
+FILEVERSION 1,3,5,0
+PRODUCTVERSION 1,3,5,0
+FILEOS 0x40004
+FILETYPE 0x1
+BEGIN
+  BLOCK "StringFileInfo"
+  BEGIN
+    BLOCK "040904B0"
+    BEGIN
+      VALUE "CompanyName", "R1CK"
+      VALUE "FileDescription", "Myopic Defocus"
+      VALUE "FileVersion", "1.3.5"
+      VALUE "InternalName", "MyopicDefocus"
+      VALUE "OriginalFilename", "MyopicDefocus.exe"
+      VALUE "ProductName", "Myopic Defocus"
+      VALUE "ProductVersion", "1.3.5"
+    END
+  END
+  BLOCK "VarFileInfo"
+  BEGIN
+    VALUE "Translation", 0x409, 1200
+  END
+END

@@ -1,0 +1,12 @@
+/build/
+/source/build/
+*.exe
+*.dll
+*.obj
+*.o
+*.a
+*.log
+*.ini
+__pycache__/
+/dist/
+.DS_Store
